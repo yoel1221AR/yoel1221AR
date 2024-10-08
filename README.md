@@ -81,3 +81,6 @@ Implementé formularios de contacto con PHP para mejorar la interacción del usu
 
 ## Fullstack Developer | Bit One
 sept. 2022 - jul. 2023
+
+Trabajé como desarrollador web fullstack, especializándome en Angular para el front-end y Java (Spring Boot) para el back-end. Dentro del equipo, cumplimos con los objetivos de
+desarrollo y mantenimiento en diferentes aplicaciones de gestión industrial.
